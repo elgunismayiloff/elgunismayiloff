@@ -1,4 +1,4 @@
-# 💫 Elgun Ismayiloff
+#  Elgun Ismayilov
 
 <div align="center">
 
@@ -166,9 +166,3 @@ graph LR
 </div>
 
 ---
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/elgunismayiloff/elgunismayiloff/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
