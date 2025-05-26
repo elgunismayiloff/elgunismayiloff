@@ -132,7 +132,7 @@ graph LR
 
 <div align="center">
 
-🎯 **5+ Years** of Full-Stack Development Experience  
+🎯 **11+ Years** of Full-Stack Development Experience  
 📱 **20+ Mobile Apps** Built with Flutter  
 🌐 **50+ Web Applications** Developed  
 ⚡ **Clean Code** & Best Practices Advocate  
