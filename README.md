@@ -44,6 +44,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elgunismayiloff&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="[https://github-readme-streak-stats.herokuapp.com/?user=elgunismayiloff&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=elgunismayiloff&theme=tokyonight" />
 </p>
 
